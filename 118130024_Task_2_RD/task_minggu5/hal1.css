@@ -1,0 +1,47 @@
+header
+{
+	text-align: center;
+	background-color: gray;
+	padding: 30px;
+}
+
+footer
+{
+	position:absolute;
+    text-align: center;
+    bottom:0;
+    width:99%;
+    height:100px;  
+    background-color: gray;
+}
+
+#next
+{
+	text-align: center;
+	font-style: arial;
+	margin-top: 10pt;
+	margin left: 300pt;
+}
+
+a:hover
+{
+	color: rgb(255, 0, 0);
+}
+
+
+caption
+{
+	margin-bottom: 10pt;
+}
+
+
+{
+	margin-left: 200pt;
+	text-align: center;
+	background-color: blue;
+}
+
+form
+{
+	text-align: center;
+}
